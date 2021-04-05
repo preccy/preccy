@@ -12,7 +12,7 @@
 
 <br />
 
-Hi, I'm [Preccy], a computer Science student🚀 from England. 
+Hi, I'm [Preccy](https://github.com/preccy/), a computer Science student🚀 from England. 
 Currently a Year 11 student contributing to various projects and working on quite a few personal projects. Also developing for a game server. 🌟
 
 I'm interested in Desktop development and Networking.
