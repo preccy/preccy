@@ -23,7 +23,7 @@ I'm interested in Desktop development and Networking.
 - 💻 I’m currently working on multiple projects :smile:;
 - 🌱 I’m currently learning C++ and Python; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@_tom.price](https://www.instagram.com/_tom.price/);
+- 📫 How to reach me: [Tom Price](https://www.instagram.com/illllllliito/);
 
 **Languages and Tools:**  
 
