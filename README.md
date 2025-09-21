@@ -13,7 +13,7 @@
 <br />
 
 Hi, I'm [Preccy](https://github.com/preccy/), a computer Science student🚀 from England. 
-Currently a Year 13 student (sixth form) contributing to various projects and working on quite a few personal projects. Also developing for a game server. 🌟
+Currently a Comp SCi student at Nottingham Trent University contributing to various projects and working on quite a few personal projects. Also developing for a game server. 🌟
 
 I'm interested in Desktop development and Networking.
 
